@@ -1,8 +1,8 @@
 ---
-layout: cv
-title: Isaac Newtons's CV
+layout: Resumé
+title: Chad Johnson's Resumé
 ---
-# Isaac Newton
+# Chad Johnson
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
