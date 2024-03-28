@@ -3,85 +3,76 @@ layout: Resumé
 title: Chad Johnson's Resumé
 ---
 # Chad Johnson
-Physicist, Mathematician, Cambridge professor.
+Accounting & Data Science
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="Chadjohnson319101@gmail.com">Chadjohnson319101@gmail.com</a>
+| <a href="www.linkedin.com/in/chad-johnson-2960ba223">My LinkedIn Profile</a>
 </div>
 
 
-## Currently
+## Bio
+I am an individual who pays great attention to detail and I am seeking an Accountant position
+within your organization to further my career. My collaborative approach, combined with my
+recent experience as a public accounting Audit and Assurance Intern, will be an asset to my future
+employment. I am excited about the opportunity to hear from you.
 
-Standing on the shoulders of giants
+## SKILLS
 
-### Specialized in
+- Proficient in a diverse array of tools and languages including: Tableau, MySQL, Python, R, QuickBooks, Practice CS, & VBA
+- Data visualization & manipulation
+- Audit & Assurance
+- Proficient in Excel and Word
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## EDUCATION
 
+#### ACCOUNTING
+__Bachelor of Science in Accounting__
 
-### Research interests
+_Brigham Young University-Idaho_
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+#### DATA SCIENCE
+__Minor in Data Science__
 
+_Brigham Young University-Idaho_
 
-## Education
+## EXPERIENCE
 
-`1654-1660`
-__The King's School, Grantham.__
+### AUDIT & ASSURANCE INTERN
+_Cooper Norman Business Advisors & CPAs | 2024_
+Engaged in audits, reviews, and compilations of financial statements for
+various business entities. Enhanced my software capabilities using
+Practice CS Professional Suite Software, QuickBooks Online, and Excel
+daily. Developed audit analytical skills, applied GAAP & GAAS, and
+collaborated with team members & clients on larger projects.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+### Teaching Assitant
+_Brigham Young University-Idaho_
+Assisted in grading, teaching, and updating lesson plans for the professor...
 
-- Sizar
+### PERSONAL SHOPPER/INVENTORY
+_Walmart | 2022-2023_
+I assisted with inventory checks and replenishment, ensuring products
+were always available. Additionally, I efficiently fulfilled online orders and
+played a key role in training new employees, contributing to the overall
+operational efficiency of the store.
 
-`1667 - death`
-__Trinity College, Cambridge__
+### SALES
+_Element Solar | 2021-2022_
+I proactively engaged in door-to-door sales of Solar Energy, stepping out
+of my comfort zone to secure appointments and facilitate the closing
+process for interested clients, showcasing a proactive and results-driven
+approach in sales.
 
-- Fellow
+## VOLUNTEER
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+### FULL-TIME VOLUNTEER REPRESENTATIVE
+_The Church of Jesus Christ of Latter-day Saints_
+Extensive leadership experience in guiding and supporting others to
+achieve their goals, backed by unwavering dedication demonstrated
+through 16-hour workdays, 100 hours per week. Became Skilled in
+leading meetings, training others, and providing support to mission
+leadership, all driven by a strong service-oriented approach.
 
 
 <!-- ### Footer
