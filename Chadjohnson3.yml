@@ -22,7 +22,7 @@ website:
       - text: "Home"
         file: index.qmd
       - text: "My Resume"
-        file: resume.qmd
+        file: /Users/chadjohnson123/Documents/GitHub/Chadjohnson3.github.io/resume.qmd
       - text: "Data Cleansing"
         file: cleansing.qmd
       - text: "Data Exploration"
