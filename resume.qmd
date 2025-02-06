@@ -3,76 +3,95 @@ layout: Resumé
 title: Chad Johnson's Resumé
 ---
 # Chad Johnson
-Accounting & Data Science
+Data Science Student | Accounting Professional
 
 <div id="webaddress">
-<a href="Chadjohnson319101@gmail.com">Chadjohnson319101@gmail.com</a>
-| <a href="www.linkedin.com/in/chad-johnson-2960ba223">My LinkedIn Profile</a>
+<a href="chadjohnson31901@gmail.com">chadjohnson31901@gmail.com</a>
+| <a href="https://www.linkedin.com/in/chad-johnson-2960ba223/">LinkedIn</a>
+| <a href="https://github.com/Chadjohnson3">GitHub</a>
 </div>
-
-
-## Bio
-I am an individual who pays great attention to detail and I am seeking an Accountant position
-within your organization to further my career. My collaborative approach, combined with my
-recent experience as a public accounting Audit and Assurance Intern, will be an asset to my future
-employment. I am excited about the opportunity to hear from you.
-
-## SKILLS
-
-- Proficient in a diverse array of tools and languages including: Tableau, MySQL, Python, R, QuickBooks, Practice CS, & VBA
-- Data visualization & manipulation
-- Audit & Assurance
-- Proficient in Excel and Word
 
 ## EDUCATION
 
-#### ACCOUNTING
-__Bachelor of Science in Accounting__
+### Master of Science in Data Science
+_Eastern University_ | Oct 2024 - Present
 
-_Brigham Young University-Idaho_
+### Bachelor of Science in Accounting | Minor in Data Science
+_Brigham Young University-Idaho_ | Sep 2021 - Jul 2024
+- Data Science Society Member
+- Student Accounting Society Member
 
-#### DATA SCIENCE
-__Minor in Data Science__
+## PROFESSIONAL EXPERIENCE
 
-_Brigham Young University-Idaho_
+### Owner, BookVista Bookkeeping
+_Remote_ | Oct 2024 - Present
+- Manage a small bookkeeping business serving service-based industries including healthcare, real estate, and IT
+- Provide monthly bookkeeping, financial reporting, and tax support
+- Streamline processes to help clients focus on core operations
 
-## EXPERIENCE
+### Staff Auditor
+_SBNG, P.C_ | Aug 2024 - Oct 2024
+- Performed financial and compliance audits, client reviews, and data analysis
+- Maintained client relationships
+- Ensured AICPA standards
+- Provided insights through risk-based approaches
 
-### AUDIT & ASSURANCE INTERN
-_Cooper Norman Business Advisors & CPAs | 2024_
-Engaged in audits, reviews, and compilations of financial statements for
-various business entities. Enhanced my software capabilities using
-Practice CS Professional Suite Software, QuickBooks Online, and Excel
-daily. Developed audit analytical skills, applied GAAP & GAAS, and
-collaborated with team members & clients on larger projects.
+### Audit & Assurance Intern
+_Cooper Norman Business Advisors & CPAs_ | Jan 2024 - April 2024
+- Engaged in audits, reviews, and compilations of financial statements
+- Enhanced software capabilities using Practice CS Professional Suite, QuickBooks Online, and Excel
+- Developed audit analytical skills, applied GAAP & GAAS
+- Collaborated with team members and clients on complex projects
 
-### Teaching Assitant
-_Brigham Young University-Idaho_
-Assisted in grading, teaching, and updating lesson plans for the professor...
+### Teacher's Assistant
+_Brigham Young University-Idaho_ | Aug 2023 - Dec 2023
+- Assisted professor for introductory SQL class
+- Taught classes in professor's absence
+- Prepared and updated course materials
+- Graded assignments and provided student support
 
-### PERSONAL SHOPPER/INVENTORY
-_Walmart | 2022-2023_
-I assisted with inventory checks and replenishment, ensuring products
-were always available. Additionally, I efficiently fulfilled online orders and
-played a key role in training new employees, contributing to the overall
-operational efficiency of the store.
+### Online Pickup & Delivery/Inventory Tracking
+_Walmart_ | May 2022 - May 2023
+- Performed inventory checks and replenishment
+- Ensured product availability
+- Fulfilled online orders efficiently
+- Trained new employees, contributing to operational efficiency
 
-### SALES
-_Element Solar | 2021-2022_
-I proactively engaged in door-to-door sales of Solar Energy, stepping out
-of my comfort zone to secure appointments and facilitate the closing
-process for interested clients, showcasing a proactive and results-driven
-approach in sales.
+## SKILLS
+- Data Visualization
+- Data Wrangling
+- Basic Web App Development
+- Machine Learning
+- Accounting & Finance
+- Bookkeeping
+- Budgeting
+- Forecasting
+- Strong Communication
+- Leadership
 
-## VOLUNTEER
+## TECHNICAL SKILLS
+- Programming: R, Python, MySQL, HTML, Git, JAVA
+- Software: Microsoft Office Suite, Tableau, Power BI
 
-### FULL-TIME VOLUNTEER REPRESENTATIVE
-_The Church of Jesus Christ of Latter-day Saints_
-Extensive leadership experience in guiding and supporting others to
-achieve their goals, backed by unwavering dedication demonstrated
-through 16-hour workdays, 100 hours per week. Became Skilled in
-leading meetings, training others, and providing support to mission
-leadership, all driven by a strong service-oriented approach.
+## CERTIFICATIONS
+- Structured Query Language, MyEducator
+- Complete Guide to Power BI for Data Analysts, Microsoft Press
+- Certified Advanced QuickBooks ProAdvisor, Intuit
+
+## VOLUNTEER EXPERIENCE
+
+### Teaching Volunteer
+_The Church of Jesus Christ of Latter-day Saints_ | Oct 2024 - Present
+- Teach high school students early-morning seminary classes
+- Develop communication and leadership skills
+- Demonstrate commitment by engaging students before school
+
+### Full-time Volunteer Representative
+_The Church of Jesus Christ of Latter-day Saints_ | Aug 2019 - Aug 2021
+- Demonstrated leadership in team training and goal achievement
+- Managed extensive workweeks up to 100 hours
+- Overcame pandemic challenges with creative problem-solving
+- Developed skills in meeting leadership and team support
 
 
 <!-- ### Footer
