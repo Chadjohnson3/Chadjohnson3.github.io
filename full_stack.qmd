@@ -1,10 +1,36 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "Full Stack"
+author: "Chad Johnson"
+format: html
 ---
 
-# Title 1 Header
-## Title 2 Header
+# Full Stack Development  
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+I enjoy working with full-stack technologies, combining data science with web development to create efficient and scalable applications. Here are some of the tools and technologies I have used some or know how to use:  
+
+## Tech Stack  
+
+### **Frontend**  
+🖥️ ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)  
+🎨 ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)  
+⚡ ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)  
+⚛️ ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)  
+
+### **Backend**  
+🐍 ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)  
+🌐 ![Flask](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg)  
+🖥️ ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)  
+
+### **Databases**  
+🗄️ ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)  
+🐘 ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)  
+
+### **Version Control & Deployment**  
+🔄 ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)  
+☁️ ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)  
+🚀 ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)  
+
+## Looking Ahead  
+I'm continuously learning and working towards building projects that integrate my **accounting background** with **data science and web development**.  
+
+Want to connect? Check out my work on [GitHub](https://github.com/Chadjohnson3) or reach out on [LinkedIn](https://www.linkedin.com/in/chad-johnson-2960ba223/).  

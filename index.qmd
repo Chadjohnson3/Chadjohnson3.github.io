@@ -1,10 +1,34 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "About Me"
+author: "Chad Johnson"
+format: html
 ---
 
-# Title 1 Header
-## Title 2 Header
+# About Me
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+![Professional Picture]("G:\My Drive\Personal Stuff\Professional Picture with trees.jpg"){width=200px}
+
+## Chad Johnson
+
+*Graduate Student | Data Science | Sports Fan | Lifelong Learner*
+
+Welcome! I'm Chad Johnson, a graduate student studying Data Science with a background in accounting. I love learning new things, solving problems, and finding meaningful ways to apply data-driven insights to real-world challenges.
+
+### A Bit About Me
+
+I’ve always been curious about numbers and patterns, which led me to study accounting during my undergrad. Now, as I pursue my Master's in Data Science, I’m excited to combine my business knowledge with powerful analytical tools to make an impact in the field.
+
+Beyond academics, I enjoy teaching and mentoring others. In my free time, you’ll find me running, playing pickleball, or following major sports like college football, the NFL, MLB, and college basketball.
+
+### What I’m Working On
+
+- **Expanding My Data Science Portfolio:** I’m building projects focused on visualization, predictive modeling, and automation.
+- **BookVista Bookkeeping:** I run a small business on the side helping service-based industries manage their financial operations.
+- **Exploring New Opportunities:** I’m seeking ways to apply my skills in data science to meaningful, real-world applications.
+
+### Let’s Connect
+
+I’m always open to learning, collaborating, and meeting new people. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/chad-johnson-2960ba223/) or check out my work on [GitHub](https://github.com/Chadjohnson3).
+
+
+

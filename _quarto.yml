@@ -14,6 +14,8 @@ website:
     right: 
       - icon: linkedin
         href: https://www.linkedin.com/in/chad-johnson-2960ba223?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnGy3GsHESXuY1d%2Bg5WbFbg%3D%3D
+      - icon: github
+        href: https://github.com/ChadJohnson3
 
   navbar:
     background: primary
@@ -23,18 +25,11 @@ website:
         file: index.qmd
       - text: "My Resume"
         file: resume.qmd
-      - text: "Data Cleansing"
+      - text: "Projects"
         file: cleansing.qmd
-      - text: "Data Exploration"
-        file: exploration.qmd
-      - text: "Story Telling"
-        file: story_telling.qmd
-      - text: "Machine Learning"
-        file: ml.qmd
       - text: "Full Stack"
         file: full_stack.qmd
-      - text: "Competition"
-        file: competition.qmd
+
       
   # sidebar:
   #   - title: "Data Cleansing"
@@ -71,8 +66,6 @@ format:
       #dark: [cosmo, theme-dark.scss]
     css: styles.css
     toc: true
-    freeze: false
-
 
 
 
