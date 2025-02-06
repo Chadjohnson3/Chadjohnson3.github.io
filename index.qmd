@@ -4,8 +4,6 @@ author: "Chad Johnson"
 format: html
 ---
 
-# About Me
-
 ![]("G:\My Drive\Personal Stuff\Professional Picture with trees.jpg"){width=200px}
 
 ## Chad Johnson
